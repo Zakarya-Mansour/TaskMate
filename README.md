@@ -82,13 +82,6 @@ API من (https://gnews.io)[https://gnews.io/)
 
 # المساهمون
 
-      Division 119Atiyaf Abdo :444811859
-      Division 120amani mohammed : 444816564
-      Division 120shahad fahad Alasmari  : 444806169
-      Division 120Shahad Jaber : 444807374
-      Division 120Yara Ali : 444810400
-      Division 120Fatima Ahmed : 444808207
-
+      
 # معلومات الاتصال
 
-رقم الهاتف : +966502313902
